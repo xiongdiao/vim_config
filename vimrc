@@ -6,6 +6,7 @@
 " NOTE: debian.vim sets 'nocompatible'. Setting 'compatible' changes numerous
 " options, so any other options should be set AFTER setting 'compatible'.
 set nocompatible
+set modifiable
 ""call plug#begin('~/.vim/plugged')
 ""Plug 'easymotion/vim-easymotion' "添加要安装的插件
 ""call plug#end()
