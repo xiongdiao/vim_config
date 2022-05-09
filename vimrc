@@ -213,6 +213,17 @@ inoremap <C-l> <Right>
 :nnoremap <C-k> <C-w>k
 :nnoremap <C-l> <C-w>l
 
+"标签跳转快捷键"
+nmap g1 1gt
+nmap g2 2gt
+nmap g3 3gt
+nmap g4 4gt
+nmap g5 5gt
+nmap g6 6gt
+nmap g7 7gt
+nmap g8 8gt
+nmap g9 9gt
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " ctags setting
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
